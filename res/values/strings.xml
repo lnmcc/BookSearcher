@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BookSearcher</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_manual_title">DouBan图书查询</string>
+    <string name="main_manual_content">请点击下面的扫描按钮，进行扫描图书的ISBN</string>
+    <string name="main_scan">扫描</string>
+    <string name="communicating">数据获取中\.\.\.</string>
+    <string name="error_message_default">Unkonwn Error!</string>
+    <string name="error_message_net_exception">Net Exception!</string>
+    <string name="error_message_book_not_found">Book not found!</string>
+    <string name="imageViewDes">Book Cover</string>
+    <string name="book_detail_summary_title">图书简介</string>
+
+</resources>
